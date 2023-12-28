@@ -39,3 +39,5 @@ function generatemessage() {
 }
 
 generatemessage(message);
+
+// Hi there I am just testing how branches work and this is for Branch 1"
